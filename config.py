@@ -1,2 +1,3 @@
-TOKEN = '8018311588:AAEnHsk5Q8wbhOHky7UVBRXRe6_FzBkLzF4'
-ADMIN_CHAT_ID = 1628991831  # ID чата для уведомлений чат - -1002849002154
+TOKEN = 'ВАШ ТОКЕН' # Введите токен вашего бота
+
+ADMIN_CHAT_ID = 123456789  # ID чата
